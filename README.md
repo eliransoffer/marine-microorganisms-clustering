@@ -25,6 +25,7 @@ In addition, we also evaluated the separability of the embedding space produced 
 ![image](https://github.com/user-attachments/assets/c6270015-42bf-463a-b7d7-e01047e98f7f)
 
 Figure 3: Comparison of the pre-trained and the fine-tuned models based on A) Original image and the attention maps of the B) pre-trained and C) the fine-tuned model
+
 ![image](https://github.com/user-attachments/assets/6b49debb-d68f-4418-ad7a-3ad8ad9eba5b)
 
 more examples:
