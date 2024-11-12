@@ -21,3 +21,8 @@ Figure 3: Comparison of the pre-trained and the fine-tuned models based on A) Or
 
 more examples:
 ![image](https://github.com/user-attachments/assets/087786e2-de15-4a95-aa80-2badf301067b)
+
+
+![image](https://github.com/user-attachments/assets/c8a37ca7-92a7-4787-8661-9f60abc9d179)
+
+Figure 1: An output image of the FlowCAM II instrument
