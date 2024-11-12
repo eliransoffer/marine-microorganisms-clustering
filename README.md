@@ -25,13 +25,15 @@ In addition, we also evaluated the separability of the embedding space produced 
 ![image](https://github.com/user-attachments/assets/c6270015-42bf-463a-b7d7-e01047e98f7f)
 
 Figure 3: Comparison of the pre-trained and the fine-tuned models based on A) Original image and the attention maps of the B) pre-trained and C) the fine-tuned model
-
 ![image](https://github.com/user-attachments/assets/6b49debb-d68f-4418-ad7a-3ad8ad9eba5b)
+
+more examples:
+
+![image](https://github.com/user-attachments/assets/087786e2-de15-4a95-aa80-2badf301067b)
 
 Figure 4: HDBSCAN result applied on the UMAP reduction based on the fine-tuned model’s representations
 
 The clusters were produced via applying the HDBSCAN algorithm. After performing the clustering analysis on our dataset, we proceeded to investigate the nature of the clusters we had obtained. Our objective was to determine if the clusters comprised similar images or if they represented the same organisms. Through our analysis, we discovered that certain clusters were indeed composed of images that shared common characteristics, while other clusters actually represented organisms that had the same shape (figure 5) The results of our clustering analysis yielded intriguing insights into the underlying patterns present within our data. Specifically, we observed that some clusters were more likely to appear in the initial days of the experiment, while others were representative of the later days (figure 6). This dynamic clustering behavior could potentially provide valuable information on how different organisms succeed one another in an indeterminate manner. By uncovering these distinct patterns, we can gain a deeper understanding of the biological processes at play within our dataset. Moreover, we had previous knowledge about when each image was sampled and from which bag, enablingus to assess if the models’ representations clustered differently by the day or the bag. Upon comparingthe pre-trained and fine-tuned models, we discoveredthat the fine-tuned model performed better, indicatingthe success of the learning process.
 
-more examples:
-![image](https://github.com/user-attachments/assets/087786e2-de15-4a95-aa80-2badf301067b)
+
 
