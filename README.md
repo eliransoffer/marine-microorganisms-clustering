@@ -18,5 +18,6 @@ In order to evaluate the effectiveness of our analysis,we conducted a thorough e
 
 ![image](https://github.com/user-attachments/assets/c6270015-42bf-463a-b7d7-e01047e98f7f)
 Figure 3: Comparison of the pre-trained and the fine-tuned models based on A) Original image and the attention maps of the B) pre-trained and C) the fine-tuned model
+
 more examples:
 ![image](https://github.com/user-attachments/assets/087786e2-de15-4a95-aa80-2badf301067b)
