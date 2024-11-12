@@ -8,3 +8,6 @@ data’s temporal trends to identify patterns that may emerge over time. In addi
 will perform various secondary analyses to explore the dataset further. This may include visualizing the data in
 different ways to gain new perspectives or utilizing machine learning techniques to identify complex patterns that
 may be difficult to discern through traditional analysis methods.
+
+
+![image](https://github.com/user-attachments/assets/c6270015-42bf-463a-b7d7-e01047e98f7f)
